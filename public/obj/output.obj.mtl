@@ -1,0 +1,351 @@
+# This file was created by OSM2World 0.4.0-SNAPSHOT - https://osm2world.org
+
+
+newmtl ASPHALT_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-Asphalt010_Color-7008592738673729746.png
+map_Kd output.obj_textures/tex-Asphalt010_Color-7008592738673729746.png
+Ni 1
+illum 2
+
+newmtl ROAD_MARKING_DASHED_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-Asphalt010_Color-7008592738673729746.png
+map_Kd output.obj_textures/tex-Asphalt010_Color-7008592738673729746.png
+Ni 1
+illum 2
+
+newmtl ROAD_MARKING_DASHED_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-road_marking_dash-7949097355042048800.png
+map_Kd output.obj_textures/tex-road_marking_dash-7949097355042048800.png
+Ni 1
+illum 2
+
+newmtl PAVING_STONE_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-PavingStones072_Color-18071382592015818940.png
+map_Kd output.obj_textures/tex-PavingStones072_Color-18071382592015818940.png
+Ni 1
+illum 2
+
+newmtl MAT_0_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-Asphalt010_Color-7008592738673729746.png
+map_Kd output.obj_textures/tex-Asphalt010_Color-7008592738673729746.png
+Ni 1
+illum 2
+
+newmtl MAT_0_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-road_marking_crossing-7101166568717974032.png
+map_Kd output.obj_textures/tex-road_marking_crossing-7101166568717974032.png
+Ni 1
+illum 2
+
+newmtl STEEL_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-Metal002_Color-13872839346061145238.png
+map_Kd output.obj_textures/tex-Metal002_Color-13872839346061145238.png
+Ni 1
+illum 2
+
+newmtl TREE_BILLBOARD_BROAD_LEAVED_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-arbaro_tree_broad_leaved-4570129964699561996.png
+map_Kd output.obj_textures/tex-arbaro_tree_broad_leaved-4570129964699561996.png
+map_d output.obj_textures/tex-arbaro_tree_broad_leaved-4570129964699561996.png
+Ni 1
+illum 2
+
+newmtl GRAVEL_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-Gravel004_Color-14094237645978017748.png
+map_Kd output.obj_textures/tex-Gravel004_Color-14094237645978017748.png
+Ni 1
+illum 2
+
+newmtl BUS_STOP_SIGN_0
+Ns 92.156863
+Ka 0.49019608 0.4509804 0.023529412
+Kd 0.49019608 0.4509804 0.023529412
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1
+illum 2
+
+newmtl TREE_BILLBOARD_CONIFEROUS_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-arbaro_tree_coniferous-1610938367106755751.png
+map_Kd output.obj_textures/tex-arbaro_tree_coniferous-1610938367106755751.png
+map_d output.obj_textures/tex-arbaro_tree_coniferous-1610938367106755751.png
+Ni 1
+illum 2
+
+newmtl KERB_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-KnerrKerb0001-8347758782502952479.png
+map_Kd output.obj_textures/tex-KnerrKerb0001-8347758782502952479.png
+Ni 1
+illum 2
+
+newmtl POSTBOX_DEUTSCHEPOST_0
+Ns 92.156863
+Ka 0.5019608 0.4 0.0
+Kd 0.5019608 0.4 0.0
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1
+illum 2
+
+newmtl METAL_FENCE_0
+Ns 92.156863
+Ka 0.36862746 0.3882353 0.4
+Kd 0.36862746 0.3882353 0.4
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1
+illum 2
+
+newmtl CONCRETE_0
+Ns 92.156863
+Ka 0.27450982 0.27450982 0.27450982
+Kd 0.27450982 0.27450982 0.27450982
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-Concrete034_Color-14922329513296245565.png
+map_Kd output.obj_textures/tex-Concrete034_Color-14922329513296245565.png
+Ni 1
+illum 2
+
+newmtl STONE_0
+Ns 92.156863
+Ka 0.3137255 0.3254902 0.30588236
+Kd 0.3137255 0.3254902 0.30588236
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-Bricks008_Color-6417119146463262811.png
+map_Kd output.obj_textures/tex-Bricks008_Color-6417119146463262811.png
+Ni 1
+illum 2
+
+newmtl BUILDING_DEFAULT_0
+Ns 92.156863
+Ka 0.5019608 0.4509804 0.27450982
+Kd 0.5019608 0.4509804 0.27450982
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-Plaster002_Color-7966341495028910565.png
+map_Kd output.obj_textures/tex-Plaster002_Color-7966341495028910565.png
+Ni 1
+illum 2
+
+newmtl ROOF_DEFAULT_0
+Ns 92.156863
+Ka 0.4 0.0 0.0
+Kd 0.4 0.0 0.0
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-RoofingTiles010_Color-2305502825832082331.png
+map_Kd output.obj_textures/tex-RoofingTiles010_Color-2305502825832082331.png
+Ni 1
+illum 2
+
+newmtl MAT_1_0
+Ns 92.156863
+Ka 0.5019608 0.4509804 0.27450982
+Kd 0.5019608 0.4509804 0.27450982
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-Plaster002_Color-7966341495028910565.png
+map_Kd output.obj_textures/tex-Plaster002_Color-7966341495028910565.png
+Ni 1
+illum 2
+
+newmtl MAT_1_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-MarekCompositeWall00001_transparent-4526937786207658782.png
+map_Kd output.obj_textures/tex-MarekCompositeWall00001_transparent-4526937786207658782.png
+Ni 1
+illum 2
+
+newmtl GRASS_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-Ground003_Color-1355911138090936386.png
+map_Kd output.obj_textures/tex-Ground003_Color-1355911138090936386.png
+Ni 1
+illum 2
+
+newmtl MAT_2_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-Bricks029_Color-8857063631238073439.png
+map_Kd output.obj_textures/tex-Bricks029_Color-8857063631238073439.png
+Ni 1
+illum 2
+
+newmtl MAT_2_1
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-MarekCompositeWall00001_transparent-4526937786207658782.png
+map_Kd output.obj_textures/tex-MarekCompositeWall00001_transparent-4526937786207658782.png
+Ni 1
+illum 2
+
+newmtl ENTRANCE_DEFAULT_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-DE19F1FreisingDoor00005_small-18204917692679245732.png
+map_Kd output.obj_textures/tex-DE19F1FreisingDoor00005_small-18204917692679245732.png
+Ni 1
+illum 2
+
+newmtl BRICK_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-Bricks029_Color-8857063631238073439.png
+map_Kd output.obj_textures/tex-Bricks029_Color-8857063631238073439.png
+Ni 1
+illum 2
+
+newmtl MAT_3_0
+Ns 92.156863
+Ka 0.09803922 0.15294118 0.14117648
+Kd 0.09803922 0.15294118 0.14117648
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-Plaster002_Color-7966341495028910565.png
+map_Kd output.obj_textures/tex-Plaster002_Color-7966341495028910565.png
+Ni 1
+illum 2
+
+newmtl GLASS_WALL_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-Facade005_Color-2032301914039309549.png
+map_Kd output.obj_textures/tex-Facade005_Color-2032301914039309549.png
+Ni 1
+illum 2
+
+newmtl MAT_4_0
+Ns 92.156863
+Ka 0.25490198 0.25882354 0.23921569
+Kd 0.25490198 0.25882354 0.23921569
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-Concrete034_Color-14922329513296245565.png
+map_Kd output.obj_textures/tex-Concrete034_Color-14922329513296245565.png
+Ni 1
+illum 2
+
+newmtl MAT_5_0
+Ns 92.156863
+Ka 0.2784314 0.27058825 0.23921569
+Kd 0.2784314 0.27058825 0.23921569
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-Concrete034_Color-14922329513296245565.png
+map_Kd output.obj_textures/tex-Concrete034_Color-14922329513296245565.png
+Ni 1
+illum 2
+
+newmtl MAT_6_0
+Ns 92.156863
+Ka 0.34117648 0.35686275 0.33333334
+Kd 0.34117648 0.35686275 0.33333334
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-Concrete034_Color-14922329513296245565.png
+map_Kd output.obj_textures/tex-Concrete034_Color-14922329513296245565.png
+Ni 1
+illum 2
+
+newmtl GARAGE_DOOR_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-DE20F1GarageDoor00001-9636174793219708772.png
+map_Kd output.obj_textures/tex-DE20F1GarageDoor00001-9636174793219708772.png
+Ni 1
+illum 2
+
+newmtl TERRAIN_DEFAULT_0
+Ns 92.156863
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+map_Ka output.obj_textures/tex-Ground003_Color-1355911138090936386.png
+map_Kd output.obj_textures/tex-Ground003_Color-1355911138090936386.png
+Ni 1
+illum 2
+
